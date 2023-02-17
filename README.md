@@ -24,7 +24,7 @@
     <a href="https://github.com/IKalonji/CredE"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/jPmPWWrZUmA">View Demo</a>
+    <a href="https://youtu.be/Zg6MU3YYA-g">View Demo</a>
     ·
     <a href="https://github.com/IKalonji/CredE/issues">Report Bug</a>
     ·
@@ -160,7 +160,7 @@ Below is an example of how you can start installing and setting up the app local
 
 ### Watch the MVP project demo below
 
-[![DEMO](https://img.youtube.com/vi/jPmPWWrZUm/0.jpg)](https://youtu.be/jPmPWWrZUmA)
+[![DEMO](https://img.youtube.com/vi/Zg6MU3YYA-g/0.jpg)](https://youtu.be/Zg6MU3YYA-g)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
